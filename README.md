@@ -27,8 +27,7 @@ Compound-assignment-operators# Operators - Compound assignment operators
     }
 
 
-- **المخرجات****:** 
-
+**المخرجات**:
 
     8
 
